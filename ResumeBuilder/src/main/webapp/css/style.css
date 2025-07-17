@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+body {
+  color: white;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+
+.container {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  border-radius: 10px;
+}
