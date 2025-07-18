@@ -24,9 +24,6 @@ Manage resumes: view, edit, delete
 Profile page shows logged-in user info
 
 📂 Project Structure
-swift
-Copy
-Edit
 /WebContent/
 ├── index.jsp
 ├── navbar.jsp
@@ -84,6 +81,7 @@ CREATE TABLE resumes (
     projects TEXT,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
 🧪 Configure
 ✅ Open the project in Eclipse.
 ✅ Right-click > Build Path > Add Libraries > Add Server Runtime > Tomcat.
